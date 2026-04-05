@@ -47,6 +47,7 @@ def run_cardiac_analysis_final_v6():
        metrics_map = {
            'Treatment': 'Treatment/ID',
            'Beat_Period': 'Beat Period (s)',
+           'Beat_Period_CoV': 'Beat Period CoV',
            'FPD': 'FPD (ms)',
            'FPDc': 'FPDc (Fridericia ms)',
            'Spike_Amplitude': 'Spike Amplitude (mV)',
