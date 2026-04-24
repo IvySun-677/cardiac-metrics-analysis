@@ -116,7 +116,7 @@ python3 multifiles_analysis.py
 After running the script, a file dialog window will open.
 
 For single-file analysis, select one cardiac metrics CSV file
-For multi-file analysis, select multiple CSV files across time points (for example D1, D3, D7)
+For multi-file analysis, select multiple CSV files across time points (for example D1, D3, D7).
 The multi-file workflow uses filenames to detect day labels such as D1, D3, and D7.
 
 ### Step 5: Check output folder
