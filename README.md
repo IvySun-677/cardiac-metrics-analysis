@@ -122,7 +122,6 @@ The multi-file workflow uses filenames to detect day labels such as D1, D3, and 
 ### Step 5: Check output folder
 
 After the analysis is complete, the script will automatically generate an output folder in the same directory as the input file(s). This folder contains processed data files, summary tables, and plots.
-# Team members
-Jian Leng
-Irfan Zayed
-Zhicheng Sun
+## Team members
+This project was developed by:
+Jian Leng, Irfan Zayed, Zhicheng Sun
