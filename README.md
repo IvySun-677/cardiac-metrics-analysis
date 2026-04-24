@@ -93,7 +93,7 @@ Navigate to the folder containing the script.
 
 Example:
 ```bash
-cd path/to/your/project
+cd path/to/the/script
 ```
 ### Step 3: Run the script
 
